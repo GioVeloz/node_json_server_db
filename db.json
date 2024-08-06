@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "giovanni",
+      "apellido": "veloz",
+      "materias": [
+        {
+          "nombre": "NODE"
+        },
+        {
+          "nombre": "JAVA"
+        },
+        {
+          "nombre": "REACT"
+        }
+      ],
+      "id": "f93f"
+    },
+    {
+      "id": "6fe7",
+      "nombre": "eduardo",
+      "apellido": "sanchez",
+      "materias": [
+        {
+          "nombre": "quimica"
+        },
+        {
+          "nombre": "biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apelldo": "Peres",
+      "promedio": 8.2,
+      "id": "a0b5"
+    },
+    {
+      "nombre": "Ricardo",
+      "apelldo": "Ortiz",
+      "promedio": 6,
+      "id": "6c12"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "Dificil",
+      "id": "1380"
+    },
+    {
+      "nombre": "Java desde cero",
+      "duracion": 8,
+      "dificultad": "Facil",
+      "id": "877d"
+    },
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 6,
+      "dificultad": "Media",
+      "id": "a27c"
+    }
+  ]
+}

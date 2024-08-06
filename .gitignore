@@ -1,0 +1,2 @@
+# Ignoraremos lo modulos de node_modules
+/node_modules 
